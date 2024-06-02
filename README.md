@@ -6,5 +6,8 @@
 <div> 2. Install the express Js >> </div>
 <p><b><b>npm i express</b></b></p>
 
+<div> 3. Install the nodemon >> </div>
+<p><b><b>npm i nodemon</b></b></p>
+
 
 
